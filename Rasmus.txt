@@ -1,1 +1,5 @@
-Det en sej fil
+
+    Your name: Rasmus på en god dag
+    Your favourite colour: Aqua blue
+    Your favourite food: Sovs
+
